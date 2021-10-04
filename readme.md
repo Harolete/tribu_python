@@ -1,1 +1,1 @@
-Clases de python para la tribu
+Lugar de preparación de la clases
